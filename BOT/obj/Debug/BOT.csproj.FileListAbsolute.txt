@@ -1,0 +1,8 @@
+c:\users\marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\BOT.exe.config
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\BOT.exe
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\BOT.pdb
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\obj\Debug\BOT.exe
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\obj\Debug\BOT.pdb
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.xml
