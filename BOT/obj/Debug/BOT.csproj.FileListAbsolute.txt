@@ -6,3 +6,11 @@ C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\obj\Debug\BOT.exe
 C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\obj\Debug\BOT.pdb
 C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Marco\documents\visual studio 2015\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\bin\Debug\BOT.exe.config
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\bin\Debug\BOT.exe
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\bin\Debug\BOT.pdb
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\obj\Debug\BOT.exe
+C:\Users\Manuel\Documents\Programmi\Git\rikkoBot\BOT\obj\Debug\BOT.pdb

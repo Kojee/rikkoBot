@@ -22,17 +22,17 @@ namespace BOT
 
         private static void Timer_Elapsed(object o)
         {
-            
+            //legge info da file per creare degli oggetti
             string sWallet = File.ReadAllText("wallet.txt");
             string sLastSoldAt = File.ReadAllText("lastsoldat.txt");
-            Wallet wallet = JsonConvert.DeserializeObject<Wallet>(sWallet);
-            LastSoldAt lastSoldAt = JsonConvert.DeserializeObject<LastSoldAt>(sLastSoldAt);
+            Wallet wallet = JsonConvert.DeserializeObject<Wallet>(sWallet); //rappresenta il portafoglio con all'interno la quantità delle varie monete posseduto
+            LastSoldAt lastSoldAt = JsonConvert.DeserializeObject<LastSoldAt>(sLastSoldAt); //????
 
             string activeCoin, unactiveCoin;
             List<string> pairs = new List<string>();
             MarketInfo bestRate;
             ExactPriceResponse exactPrice;
-            double dBestRate = -1, rateResult;
+            double dBestRate = -1, rateResult=0;
             
             while (true)
             {
