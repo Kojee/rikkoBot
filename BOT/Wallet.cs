@@ -22,17 +22,10 @@ namespace BOT
                 return "btc";
 
             }
-            else
+            else if(record["btc"] < record["eth"])
             {
                 return "eth";
             }
-            /*foreach(KeyValuePair<string, double> entry in record)
-            {
-                if(entry.Value != 0)
-                {
-                    return entry.Key;
-                }
-            }*/
             return "Active coin not found";
         }
 
@@ -43,17 +36,10 @@ namespace BOT
                 return "btc";
 
             }
-            else
+            else if(record["btc"] > record["eth"])
             {
                 return "eth";
             }
-            /*foreach(KeyValuePair<string, double> entry in record)
-            {
-                if(entry.Value != 0)
-                {
-                    return entry.Key;
-                }
-            }*/
             return "Unactive coin not found";
         }
 
